@@ -1,0 +1,8 @@
+
+*.xml
+*.wandb
+*.log
+*.json
+*.txt
+*.yaml
+*.iml
